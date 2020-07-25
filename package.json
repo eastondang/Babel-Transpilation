@@ -1,0 +1,28 @@
+{
+  "name": "babel-project",
+  "version": "1.0.0",
+  "description": "Transpile code in a Babel project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eastondang/Babel-Transpilation.git"
+  },
+  "keywords": [
+    "Compatibility",
+    "Transpilation",
+    "ES6"
+  ],
+  "author": "Easton Dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eastondang/Babel-Transpilation/issues"
+  },
+  "homepage": "https://github.com/eastondang/Babel-Transpilation#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
